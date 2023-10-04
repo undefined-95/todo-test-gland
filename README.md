@@ -11,4 +11,4 @@ npm start
 ## Стек инструментов:
 
 ![React](https://img.shields.io/badge/React-black?style=social&logo=react)
-![sass](https://img.shields.io/badge/ReduxToolkit-black?style=social&logo=sass)
+![sass](https://img.shields.io/badge/Sass-black?style=social&logo=sass)
